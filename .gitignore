@@ -3,3 +3,5 @@
 /*.iml
 /target/classes
 /target
+/langjitianya-gateway-web/target/classes
+/langjitianya-gateway-web/target/maven-status/maven-compiler-plugin/compile/default-compile
